@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/ynaka-adobe/da-demo-kit/
+    url: https://content.da.live/nkettler-adobe/eds-claude-demo/
     type: markup
